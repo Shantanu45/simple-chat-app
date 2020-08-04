@@ -1,2 +1,2 @@
-# simple-chat-app
-basic react chap web app
+# Simple Chat App
+basic react chat web app
